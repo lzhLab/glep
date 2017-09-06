@@ -1,10 +1,11 @@
-# 
 Prerequisite
-Glep requires several tools to be installed to predict epitopes together, which are :
+# 
+Glep requires several tools to be installed, which are :
 
-naccess 2.1.1 Calculate the accessible surface area.
-qhull-2015.2 Build the surface graph.
-libsvm-3.22 Classify groups of residues as epitope or non-epitope.
+naccess 2.1.1: http://www.bioinf.manchester.ac.uk/naccess/
+qhull: http://www.qhull.org/
+libsvm-3.22:https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+#
 Installation
 Install GCC 4.9 or higher version.
 Download GLEP source code, and decompress it.
