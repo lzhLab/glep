@@ -1,15 +1,11 @@
 <h3>Prerequisite</h3>
 Glep requires several tools to be installed, which are :
-<li>
-naccess 2.1.1: http://www.bioinf.manchester.ac.uk/naccess/</li>
-qhull: http://www.qhull.org/\\
-libsvm-3.22:https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+<li>naccess 2.1.1: http://www.bioinf.manchester.ac.uk/naccess/</li>
+<li>qhull: http://www.qhull.org/</li>
+<li>libsvm-3.22:https://www.csie.ntu.edu.tw/~cjlin/libsvm/</li>
 
 <h3>Installation</h3>
-#
-Install GCC 4.9 or higher version.
-Download GLEP source code, and decompress it.
-Edit the configure file if necessary.
-Install GLEP by type:
-
-make
+<li>Install GCC 4.9 or higher version.</li>
+<li>Download GLEP source code, and decompress it.</li>
+<li>Edit the configure file if necessary.</li>
+<li>Install GLEP by type: make </li>
