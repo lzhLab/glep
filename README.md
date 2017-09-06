@@ -1,8 +1,7 @@
 <h3>Prerequisite</h3>
-# 
 Glep requires several tools to be installed, which are :
-
-naccess 2.1.1: http://www.bioinf.manchester.ac.uk/naccess/\\
+<li>
+naccess 2.1.1: http://www.bioinf.manchester.ac.uk/naccess/</li>
 qhull: http://www.qhull.org/\\
 libsvm-3.22:https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 
